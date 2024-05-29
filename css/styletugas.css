@@ -128,11 +128,4 @@ font-size: 15px;
     font-size: 12px;
 }
 
-/* Responsif */
-@media (max-width: 768px) {
-    .footer-content {
-        flex-direction: column;
-    }
-}
-
 
